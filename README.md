@@ -20,6 +20,6 @@ Tools and Technologies Used
 [CLICK HERE](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework)
 
 ### LIVE SCREENSHOT OF MY PROJECT
-![grid](https://user-images.githubusercontent.com/53564831/71038302-62267880-20d6-11ea-8bfe-152da11a2a52.jpg)
+![q](https://user-images.githubusercontent.com/53564831/71186959-fad20b00-2232-11ea-894f-1de05e283916.jpg)
 
 
